@@ -106,6 +106,7 @@ while True:
 
     elif choice == "7":
         print("Thank You!")
+        print("bye")
         break
 
     else:
